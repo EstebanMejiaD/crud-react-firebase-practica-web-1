@@ -1,0 +1,13 @@
+.container-app {
+    width: 600px;
+    border-radius: 25px;
+    border: 1px solid #888;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.container-otros {
+    width: 600px;
+    margin-top: 30px;
+    text-align: center;
+}
